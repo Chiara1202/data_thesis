@@ -1,0 +1,23 @@
+[i] [2025-01-14T12:12:08] ---> Start SNOWPACK w/ soil layers in RESEARCH mode
+[i] []                 snowpack compiled on Dec 10 2024 at 10:36:32
+[i] []                 Experiment : WFJ2_MS_SNOW
+[i] []                 Output dir : /home/ghielmin/Desktop/data_thesis/snowpack/WFJ2
+
+[i] []                 Run on meteo station WFJ2
+[i] []                 Reading snow cover data for station WFJ2
+[W] [2025-01-14T12:12:08] [DataClasses.cc:3138] 3 measured temperatures available but no positions. Check FIXED_POSITIONS in SnowpackAdvanced section!
+[i] []                 Finished initializing station WFJ2
+[i] []                 Data in *.smet file(s) may be overwritten
+[i] []                 Erased /home/ghielmin/Desktop/data_thesis/snowpack/WFJ2/WFJ2_WFJ2_MS_SNOW.ini
+[i] [2025-01-14T12:12:08] ---> Start simulation for WFJ2 on 2013-08-31T23:45:00+01:00
+[i] []                 End date specified by user: 2018-12-01T00:00:00+01:00
+[i] []                 Integration step length: 15.000000 min
+[E] [2025-01-14T12:12:08] WFJ2 missing { TA RH sw_radiation VW } on 2013-09-01T00:00:00
+[i] []                 No valid data for station WFJ2 on [2013-09-01T00:00:00]
+[i] []                 Total time to read meteo data : 0.057600 s
+[i] []                 Runtime for station WFJ2: 0.068459 s
+
+[i] []                 STARTED  running SLF RESEARCH Snowpack Model on Tue Jan 14 12:12:08 2025
+                       ========================================================================
+                       FINISHED running SLF RESEARCH Snowpack Model on Tue Jan 14 12:12:08 2025
+

@@ -3,6 +3,9 @@ snowpack/WFJ2/output
 prova_git
 output
 regressed
+cfgfiles
 
 #files
 run_snowpack.py
+*.txt
+to_exec.lst

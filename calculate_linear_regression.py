@@ -17,7 +17,7 @@ from geopy.distance import geodesic
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import r2_score
 from datetime import datetime
-
+os.chdir('/home/ghielmin/Desktop/snowpat-main/')
 import snowpat.pysmet as smet
 
 

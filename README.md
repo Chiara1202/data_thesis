@@ -6,3 +6,5 @@
    - WFJ2_WFJ2_MS_SNOW_unheatedgauges.ini: the filter Unheated Rain Gauge is applied
 
   The output are saved in /snowpack/WFJ2/output
+
+- run `calculate_linear_regression.py`. For every output smet files from the previous step the linear regression is calculated

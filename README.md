@@ -1,3 +1,7 @@
+# Required:
+- SNOWPACK model
+- pysmet
+
 # To reproduce:
 
 - run `run_snowpack.sh`, this will run the SNOWPACK model on three different ini files which have the following characteristics:
